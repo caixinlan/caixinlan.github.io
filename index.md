@@ -1,206 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>个人简历</title>
-
-
-<style>
-
-
-#title{
-color:#F00;
-font-size:28px
-}
-.secondTitle{
-
-
-font-size:18px;
-background-color:#09F;
-text-align:center;
-}
-
-
-body{ 
-text-align:center;
-font-size:16px;
-font-family:楷体;
-
-}
-ul{
-text-align:left;}
-li{
-text-align:left;}
-.info{
-text-align:left;
-font-size:16px;
-}
-td{
-border-color:#09F;
-}
-tr{
-border-color:#09F;}
-
-</style>
-
-
 </head>
 
+<body>
+<title><center>
+<strong>个人简历</strong>
+</center></title>
+<center>
+<td width="613" height="1271" align="center" valign="top" bgcolor="#00FF99"><table width="598" height="429" border="1" cellpadding="0" cellspacing="0">
+<tr align="center">
+<td colspan="6" bgcolor="#00FFFF"><strong>个人简历</strong></td>
 
-<body >
-
-
-<table  align="center" width="660" border="0" bordercolor="#00CCFF"  frame="box">
-  <caption id="title"   >
-  <strong>  个人简历</strong>
-  </caption>
-  <tr>
-    <td colspan="5" class="secondTitle">基本资料</td>
-  </tr>
-  <tr>
-    <td width="116">姓&nbsp;名</td>
-    <td width="134"></td>
-    <td width="79">性&nbsp;别</td>
-    <td width="166">男</td>
-     <td width="129" rowspan="5"><img  src="yanyiwei.jpg" width="105" height="150" alt="1" /></td>
-  </tr>
-  <tr>
-    <td>年&nbsp;龄</td>
-    <td>23</td>
-    <td>籍贯</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>民&nbsp;族</td>
-    <td>汉</td>
-    <td>政治面貌</td>
-    <td>团员</td>
-  </tr>
-  <tr>
-    <td>毕业学校</td>
-    <td colspan="3"></td>
-  </tr>
-  <tr>
-    <td>专&nbsp;业</td>
-    <td>计算机科学与技术</td>
-    <td>学&nbsp;历</td>
-    <td>本科</td>
-  </tr>
-  <tr>
-    <td colspan="5" class="secondTitle">个人技能</td>
-  </tr>
-  <tr>
-    <td>个人技能</td>
-    <td colspan="4" >
-    <ul >
-    <li >熟练掌握Java</li>
-    <li >熟练掌握SQl Server</li>
-    <li >熟练掌握Oracle</li>
-    </ul>
-    
-    </td>
-  </tr>
-  <tr>
-    <td>计算机水平</td>
-    <td colspan="4">
-      <ul  >
-      <li >计算机二级</li>
-      <li >程序员认证</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>语言能力</td>
-    <td colspan="4">
-    英语：四级    
-    </td>
-  </tr>
-  <tr>
-    <td>个人专长</td>
-    <td colspan="4" class="info">
-    极其爱敲代码
-      
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5" class="secondTitle">项目经验</td>
-  </tr>
-  <tr><strong>
-    <td>年月</td>
-    <td>项目名称</td>
-    <td colspan="3">项目说明</td> </strong>
-  </tr>
-  <tr>
-    <td>2013年</td>
-    <td>学生管理系统</td>
-    <td colspan="3">
-   实现管理员登录注册<br />
-   实现学生的增删改查
-    
-    </td>
-  </tr>
-    <tr>
-    <td>2014年</td>
-    <td>二手房交易系统</td>
-    <td colspan="3">
-    实现用户的注册登录<br />
-     实现管理员帐号<br />
-     实现用户购买寄售房屋 房屋信息的显示（分页）<br />    
-    </td>
-        <tr>
-    <td>2015年</td>
-    <td>捕鱼达人</td>
-    <td colspan="3">
-      捕鱼达人基本功能的实现    
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5" class="secondTitle">实践与实习</td>
-  </tr>
-  <tr>
-    <td>2011.6-2012.9</td>
-    <td colspan="4"></td>
-  </tr>
-    <tr>
-    <td>2012.6-2013.9</td>
-    <td colspan="4"></td>
-  </tr>
-    <tr>
-    <td>2014.6-2015.9</td>
-    <td colspan="4"></td>
-  </tr>
-    <tr>
-    <td>2015.9-2015.1</td>
-    <td colspan="4"></td>
-  </tr>
-  <tr>
-    <td colspan="5" class="secondTitle">个人爱好</td>
-  </tr>
-  <tr>
-    <td>兴趣爱好</td>
-    <td colspan="4">游戏、篮球</td>
-  </tr>
-  <tr>
-    <td colspan="5" class="secondTitle">自我评价</td>
-  </tr>
-  <tr>
-    <td colspan="5">
-</td>
-  </tr>
-  <tr>
-    <td colspan="5" class="secondTitle">联系方式</td>
-  </tr>
-  <tr>
-    <td>移动电话</td>
-    <td>157***</td>
-    <td>QQ</td>
-    <td colspan="2">450**</td>
-  </tr>
-  <tr>
-    <td>e-mail</td>
-    <td>xiaoshidebukuai@163.com</td>
-    <td>CSDN</td>
-    <td colspan="2">xiaoshidetaikuai20</td>
-  </tr>
+</tr>
+<tr>
+<td width="97" align="center" bgcolor="#00FFFF">姓名</td>
+<td width="116" bgcolor="#00FFFF">&nbsp;</td>
+<td width="97" align="center" bgcolor="#00FFFF">性别</td>
+<td width="116" bgcolor="#00FFFF">&nbsp;</td>
+<td colspan="2" rowspan="5" align="center" valign="middle" bgcolor="#00FFFF">照片</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00FFFF">出生年月</td>
+<td bgcolor="#00FFFF">&nbsp;</td>
+<td align="center" bgcolor="#00FFFF">政治面貌</td>
+<td bgcolor="#00FFFF">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00FFFF">民族</td>
+<td bgcolor="#00FFFF">&nbsp;</td>
+<td align="center" bgcolor="#00FFFF">学历</td>
+<td bgcolor="#00FFFF">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00FFFF">籍贯</td>
+<td bgcolor="#00FFFF">&nbsp;</td>
+<td align="center" bgcolor="#00FFFF">联系方式</td>
+<td bgcolor="#00FFFF">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00FFFF">身高</td>
+<td bgcolor="#00FFFF">&nbsp;</td>
+<td align="center" bgcolor="#00FFFF">体重</td>
+<td bgcolor="#00FFFF">&nbsp;</td>
+</tr>
+<tr>
+<td height="82" align="center" bgcolor="#00FFFF">英语水平</td>
+<td bgcolor="#00FFFF">&nbsp;</td>
+<td align="center" bgcolor="#00FFFF">计算机水平</td>
+<td colspan="3" bgcolor="#00FFFF">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00FFFF">系别</td>
+<td colspan="5" bgcolor="#00FFFF">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#00FFFF">专业</td>
+<td colspan="5" bgcolor="#00FFFF">&nbsp;</td>
+</tr>
 </table>
-</body>
-</html>
+</tr>
+</table></td>
+</tr>
+</table>
