@@ -1,9 +1,6 @@
 
 <html>
  
-
- 
-<table border="1" align="center" cellpadding="10" width="800">
 <tr>
     <th colspan="7" bgcolor="BurlyWood" >我的个人简介</th>
 </tr>
