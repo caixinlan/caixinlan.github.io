@@ -1,73 +1,168 @@
-
 <html>
- 
-<tr>
-    <th colspan="7" bgcolor="BurlyWood" >我的个人简介</th>
+<head>
+<title>孙海洋</title>
+<mate name="keywords" content="个人简历"/>
+<mate name="description" content="孙海洋的个人简历"/>
+</head>
+<body>
+<table  border=5  bordercolor=red align=center>
+<tr height=70 bgcolor=green align='center'>
+<td width=720 colspan=6 align=center
+><font size=5 ><b><a href=http://blog.sina.com.cn/u/3083814572>个人简历
+
+</a></b></font></td>
 </tr>
- 
-<tr>
-    <th bgcolor="BurlyWood">姓名:</th>
-    <td> 豪豪豪</td>
-    <th bgcolor="BurlyWood">年龄:</th>
-    <td>19</td>
-    <th bgcolor="BurlyWood">民族:</th>
-    <td>汉</td>
-    <td rowspan="3" width="100"<p><a href="https://www.so.com/s?ie=utf-8&shb=1&src=home_tab_image&q=%E4%BB%A3%E5%BA%94%E8%B1%AA"><img border="0" src="http://a2.qpic.cn/psb?/V140HpS919MdYh/pzg3zzU**Gw41Fi7T8R9uNFUua5brWbnD3N9Bf8UPKI!/b/dAkBAAAAAAAA&bo=eAB4AAAAAAAFByQ!&rf=viewer_4" />
-</a></p></td>
+
+<tr height=50 bgcolor=green>
+<td width=110 align=center
+><font size=5>姓名：</td>
+<td width=150 align=center
+><font size=5><a
+
+href=http://user.qzone.qq.com/504660181/infocenter#home>孙海洋</td>
+<td width=110 align=center
+><font size=5>性别：</td>
+<td width=150 align=center
+><font size=5>男</td>
+<td width=200 colspan=2 rowspan=4><img
+
+src="http://b264.photo.store.qq.com/psb?/1e607185-b189-4edb-a6a9-
+
+3c3e3f4bc25a/lpJL3i5H3AWovj6*eYZTbXKgOtEQuAkqByv4H*wMyRw!/b/dKMBZp1AIgAA
+
+&bo=gALgAQAAAAABAEQ" alt="孙海洋照片" width=200 height=200></td>
+ </tr>
+
+<tr height=50 bgcolor=green>
+<td width=110 align=center
+><font size=4 align=center
+>出生年月：</td>
+<td width=150 align=center
+><font size=5>1992.4.6</td>
+<td width=110 align=center
+><font size=5>民族：</td>
+<td width=150 align=center
+><font size=5>汉</td>
+
 </tr>
- 
-<tr>
-    <th bgcolor="BurlyWood">出生日期:</th>
-    <td>19970000</td>
-    <th bgcolor="BurlyWood">政治面貌:</th>
-    <td>团员</td>
-    <th bgcolor="BurlyWood">学历:</th>
-    <td>本科</td>
+
+
+<tr height=50 bgcolor=green>
+<td width=110 align=center
+><font size=5>学历：</td>
+<td width=150 align=center
+><font size=5 align=center
+>大专</td>
+<td width=110 align=center
+><font size=5>专业：</td>
+<td width=150 align=center
+><font size=4>数控车工</td>
+
 </tr>
- 
-<tr>
-    <th bgcolor="BurlyWood">专业:</th>
-    <td>网络工程</td>
-    <th bgcolor="BurlyWood">毕业学校:</th>
-    <td>淮南师范学院</td>
-    <th bgcolor="BurlyWood">邮编:</th>
-    <td>237483</td>
+
+
+<tr height=50 bgcolor=green>
+<td width=110 align=center
+><font size=5>籍贯：</td>
+<td width=150 align=center
+><font size=4>河南原阳</td>
+<td width=110 align=center
+><font size=4>联系电话：</td>
+<td width=150 align=center
+><font size=3>13602664383</td>
+
 </tr>
- 
-<tr>
-     <th bgcolor="BurlyWood">爱好:</th>
-     <td>玩，拆，装</td>
-     <th bgcolor="BurlyWood">籍贯:</th>
-     <td>皖</td>
-     <th bgcolor="BurlyWood">邮箱:</th>
-     <td colspan="2"<p><a  href="mailto:182******@qq.com?subject=Hello%20again">182*******@qq.com </a></p></td>
+
+
+<tr height=50 bgcolor=green>
+<td width=100 align=center
+><font size=4>毕业学校：</td>
+<td width=620 colspan=5 align=center
+><font size=5>河南经济贸易高级技工学校</td>
 </tr>
- 
-<tr>
-     <th height="160" bgcolor="BurlyWood">个人特长:</th>
-     <td colspan="6">
-   <p>我爱计算机，我爱计算机我爱计算机，我爱计算机我爱计算机，我爱计算机</p>
-   <p>我爱计算机，我爱计算机我爱计算机，我爱计算机我爱计算机，我爱计算机</p>
-   <p>我爱计算机，我爱计算机我爱计算机，我爱计算机我爱计算机，我爱计算机</p>
-    </td>
+
+
+<tr height=50 bgcolor=green>
+<td width=110 align=center
+><font size=5>住址：</td>
+<td width=610 colspan=5 align=center
+><font size=5>下油松新村</td>
 </tr>
+
  
-<tr>
-     <th height="160" bgcolor="BurlyWood"> 自我介绍:</th>
-     <td colspan="6">
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
+
+<tr height=50 bgcolor=green>
+<td width=110 align=center
+><font size=4>电子邮箱：</td>
+<td width=610 colspan=5 align=center
+><font size=5>hiyangson@163.com</td>
 </tr>
- 
-<tr>
-     <th height="160" bgcolor="BurlyWood">总结:</th>
-     <td colspan="6">
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
+
+
+<tr height=50 bgcolor=green>
+<td width=720 colspan=6 align=center
+><font size=5>教育历程</td>
 </tr>
+
+<tr height=50 bgcolor=green>
+<td width=720  colspan=6 align=center>2007.9-2011.6  在河南高级技工学校读
+
+中专</td>
+</tr>
+
+<tr height=50 bgcolor=green>
+<td width=720  colspan=6 align=center>2010.9-至今 报读郑州轻工业学院成人大
+
+专</td>
+</tr>
+
+<tr height=50 bgcolor=green>
+<td width=720 colspan=6 align=center
+><font size=5>工作经历</td>
+</tr>
+
+<tr height=50 bgcolor=green>
+<td width=720  colspan=6 align=center>2011.6-至今 在富士康科技集团工作
+
+</td>
+</tr>
+
+<tr height=50 bgcolor=green>
+<td width=720 colspan=6 align=center
+><font size=5>自我评价</td>
+</tr>
+
+
+<tr height=50 bgcolor=green>
+<td width=720  colspan=6>个人工作勤奋，认真负责，能吃苦耐劳，尽职尽责，
+
+</td>
+</tr>
+
+
+<tr height=50 bgcolor=green>
+<td width=720 colspan=6></td>
+</tr>
+</table>
+
  
+
+<center><script language="javascript" type="text/javascript"
+
+src="http://js.users.51.la/15653809.js"></script>
+<noscript><a href="http://www.51.la/?15653809" target="_blank"><img
+
+alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;"
+
+src="http://img.users.51.la/15653809.asp" style="border:none"
+
+/></a></noscript>
+
+ 
+
+ 
+
+ 
+
 </body>
- 
 </html>
