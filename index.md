@@ -44,7 +44,7 @@
      <th bgcolor="BurlyWood">籍贯:</th>
      <td>湖南</td>
      <th bgcolor="BurlyWood">邮箱:</th>
-     <td colspan="2"<p><a  href="mailto:1483393233@qq.com?subject=Hello%20again">1483393233@qq.com </a></p></td>
+     <td colspan="2"<p><a  href="1483393233@qq.com?subject=Hello%20again">1483393233@qq.com </a></p></td>
 </tr>
  
 <tr>
