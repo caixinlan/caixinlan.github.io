@@ -1,11 +1,7 @@
 <html>
  
 
-body{
-  font-family: "华文细黑";
-  background:url("123456.jpg") no-repeat;
-  background-size: 100%;
-}
+
 <tr>
     <th colspan="7" bgcolor="BurlyWood" >我的个人简介</th>
 </tr>
