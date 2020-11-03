@@ -1,18 +1,11 @@
 <html>
  
 
-body {
-  background-image: url("123456.jpg");
-  background-position: center 0;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -ms-background-size: cover;
+body{
+  font-family: "华文细黑";
+  background:url("123456.jpg") no-repeat;
+  background-size: 100%;
 }
-<table border="1" align="center" cellpadding="10" width="800">
 <tr>
     <th colspan="7" bgcolor="BurlyWood" >我的个人简介</th>
 </tr>
