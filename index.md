@@ -35,7 +35,7 @@
     <th bgcolor="BurlyWood">毕业学校:</th>
     <td>湖南工商大学北津学院</td>
     <th bgcolor="BurlyWood">邮编:</th>
-    <td>237483</td>
+    <td>410205</td>
 </tr>
  
 <tr>
