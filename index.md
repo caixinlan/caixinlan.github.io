@@ -14,7 +14,7 @@
     <td>21</td>
     <th bgcolor="BurlyWood">民族:</th>
     <td>汉</td>
-    <td rowspan="3" width="144 high="192"<p><a href="430124199907106266.jpg"><img border="0" src="430124199907106266.jpg" />
+    <td rowspan="3" width="144 high="192"<p><a href="zhengjianzhao.jpg"><img border="0" src="zhengjianzhao.jpg" />
 </a></p></td>
 </tr>
  
