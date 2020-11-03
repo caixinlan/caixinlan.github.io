@@ -33,41 +33,38 @@
     <th bgcolor="BurlyWood">毕业学校:</th>
     <td>湖南工商大学北津学院</td>
     <th bgcolor="BurlyWood">邮编:</th>
-    <td>237483</td>
+    <td>410205</td>
 </tr>
  
 <tr>
      <th bgcolor="BurlyWood">爱好:</th>
-     <td>玩，拆，装</td>
+     <td>羽毛球</td>
      <th bgcolor="BurlyWood">籍贯:</th>
-     <td>皖</td>
+     <td>湖南</td>
      <th bgcolor="BurlyWood">邮箱:</th>
-     <td colspan="2"<p><a  href="mailto:182******@qq.com?subject=Hello%20again">182*******@qq.com </a></p></td>
+     <td colspan="2"<p><a  href="mailto:1483393233@qq.com?subject=Hello%20again">11483393233@qq.com </a></p></td>
 </tr>
  
 <tr>
-     <th height="160" bgcolor="BurlyWood">个人特长:</th>
+     <th height="160" bgcolor="BurlyWood">社团实践:</th>
      <td colspan="6">
-   <p>我爱计算机，我爱计算机我爱计算机，我爱计算机我爱计算机，我爱计算机</p>
-   <p>我爱计算机，我爱计算机我爱计算机，我爱计算机我爱计算机，我爱计算机</p>
-   <p>我爱计算机，我爱计算机我爱计算机，我爱计算机我爱计算机，我爱计算机</p>
+   <p>加入学校心理健康协会，在职两年，阻止了心理健康书籍推广及阅读的活动，召集人员分派传单，分发书籍，活动取得圆满成功</p>
+   <p>协助社长进行社团换届选举，准备舱底与参选人员资料，组织人员参与选举<p>
     </td>
 </tr>
  
 <tr>
-     <th height="160" bgcolor="BurlyWood"> 自我介绍:</th>
+     <th height="160" bgcolor="BurlyWood"> 获奖证书:</th>
      <td colspan="6">
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
+    <p>第十五届、第十六届校数学建模三等奖</p>
+    <p>本科期间院级三好学生、国家励志奖</p>
 </tr>
  
 <tr>
-     <th height="160" bgcolor="BurlyWood">总结:</th>
+     <th height="160" bgcolor="BurlyWood">自我评价:</th>
      <td colspan="6">
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
+    <p>本人性格开朗，与人处事融洽，对待工作善始善终，能日益承受严重的竞争压力，并且能在成败中完善自己。有较强的学习和自制能力，能快速融入集体，具有良好的沟通潜力与团队合作精神。</p>
+
 </tr>
  
 </body>
