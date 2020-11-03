@@ -1,6 +1,7 @@
 <html>
  
-
+<body background=http://p1.so.qhmsg.com/t01ed5a885549b6bf3b.jpg>
+ 
 <table border="1" align="center" cellpadding="10" width="800">
 <tr>
     <th colspan="7" bgcolor="BurlyWood" >我的个人简介</th>
@@ -13,7 +14,9 @@
     <td>21</td>
     <th bgcolor="BurlyWood">民族:</th>
     <td>汉</td>
-    <td rowspan="3" width="144px" height="192px"<p><a href="430124199907106266.jpg"><img border="0" src="430124199907106266.jpg" />
+    <td rowspan="3" width="100"<p><a href="430124199907106266.jpg"><img border="0" src="430124199907106266.jpg
+
+" />
 </a></p></td>
 </tr>
  
@@ -32,7 +35,7 @@
     <th bgcolor="BurlyWood">毕业学校:</th>
     <td>湖南工商大学北津学院</td>
     <th bgcolor="BurlyWood">邮编:</th>
-    <td>410205</td>
+    <td>237483</td>
 </tr>
  
 <tr>
@@ -47,16 +50,16 @@
 <tr>
      <th height="160" bgcolor="BurlyWood">社团实践:</th>
      <td colspan="6">
-   <p>加入学校心理健康协会，在职两年，阻止了心理健康书籍推广及阅读的活动，召集人员分派传单，分发书籍，活动取得圆满成功</p>
-   <p>协助社长进行社团换届选举，准备场地与参选人员资料，组织人员参与选举<p>
+   <p>  加入学校的心理健康协会社团，成为其中一员，在职两年，组织了心理健康书籍推广及阅读的活动，召集人员分派传单，分发书籍，活动取得圆满成功</p>
+   <p>  协助社长进行社团换届选举，准备场地与参选人员资料，组织人员参与选举</p>
     </td>
 </tr>
  
 <tr>
      <th height="160" bgcolor="BurlyWood"> 获奖证书:</th>
      <td colspan="6">
-    <p>第十五届、第十六届校数学建模三等奖</p>
-    <p>本科期间院级三好学生、国家励志奖</p>
+    <p>  第十五届、第十六届校数学建模三等奖</p>
+    <p>  本科期间获院级三好学生、国家励志奖学金</p>
 </tr>
  
 <tr>
